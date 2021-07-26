@@ -20,7 +20,7 @@ PDF Version [here](https://www.researchgate.net/profile/Yuliya-Snihur/publicatio
 
 🎓 Grimaldi, D., Fernández, V., Carrasco-Farré, C. (2019). [Exploring data conditions to improve business performance.](https://www.tandfonline.com/doi/full/10.1080/01605682.2019.1590136) <em>Journal of the Operational Research Society</em>, 75(5). 
 
-🎓 Berrone, P., Ricart, J.E., Carrasco-Farré, C. (2016). [The open kimono: Toward a general framework for open data initiatives in cities.](https://journals.sagepub.com/doi/abs/10.1177/0008125616683703) <em>California Management Review</em>. 59(1). 
+🎓 Berrone, P., Ricart, J.E., Carrasco-Farré, C. (2016). [The open kimono: Toward a general framework for open data initiatives in cities.](https://journals.sagepub.com/doi/abs/10.1177/0008125616683703) <em>California Management Review</em>, 59(1). 
 
 🎓 Carrasco-Farré, C., Sobrepere, X. (2016). [Open government data: An assessment of the Spanish municipal situation.](https://journals.sagepub.com/doi/abs/10.1177/0894439314560678) <em>Social Science Computer Review</em>, 33(5).
 
