@@ -13,4 +13,4 @@ Welcome! I am a PhD Candidate in the Department of Operations, Innovation and Da
 
 My work has been [published](https://ccfarre.github.io/publications/) in Social Science Computer Review, Technological Forecasting and Social Change, California Management Review, and Strategy Science among other outlets. My research explores AI and Machine Learning techniques to identify and classify misinformation, and behavioral interventions in social networks to mitigate the spread of false and polarizing content online. I have [teaching](https://ccfarre.github.io/teaching/) experience in both undergraduate and graduate level, focusing on managerial implications and quantitative methodology.
 
-Besides my academic career, I am partner and Chief Data Scientist at [EIXOS Economic Observatory](https://eixos.cat/html/portada-1-eng.html)
+Besides my academic career, I am partner and Chief Data Scientist at [EIXOS Economic Observatory](https://eixos.cat/html/portada-1-eng.html).
