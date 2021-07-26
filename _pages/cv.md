@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* 2013-2020: Researcher
+* 2013-2020: Research Associate
   * IESE Business School
   * Duties included: Data collection, cleaning and analysis for different projects
   * Supervisor: Professor Joan Enric Ricart
@@ -44,16 +44,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+
 
