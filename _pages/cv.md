@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Carlos Carrasco-Farré - CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Political Science, Pompeu Fabra University, 2009
+* M.Sc. in Public and Social Policy, Pompeu Fabra University and The Johns Hopkins University, 2011
+* Course in Public Finance, London School of Economics, 2011
+* Course in Government Performance, Harvard University, 2014
+* M.Res. in Management Science, ESADE Business School, 2019
+* Ph.D in Management Science, ESADE Business School, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013-2020: Researcher
+  * IESE Business School
+  * Duties included: Data collection, cleaning and analysis for different projects
+  * Supervisor: Professor Joan Enric Ricart
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-: Partner and Chief Data Scientist
+  * EIXOS Economic Observatory
+  * Duties included: Data mining and analysis, algorithm design and implementation
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills: R
+  * Machine Learning
+  * Artificial Intelligence
+  * Visualization
+* QGIS
 
 Publications
 ======
@@ -54,6 +56,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
