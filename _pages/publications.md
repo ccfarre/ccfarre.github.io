@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<h2>Peer Reviewed Journal Articles &amp; Conference Publications</h2>
+Ricart, J. E., Snihur, Y., Carrasco-Farré, C., & Berrone, P. (2020). [Grassroots resistance to digital platforms and relational business model design to overcome it: A conceptual framework.](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2020.0104) Strategy Science, 5(3), 271-291. PDF Version [here](https://www.researchgate.net/profile/Yuliya-Snihur/publication/340078087_Grassroots_Resistance_to_Digital_Platforms_and_Relational_Business_Model_Design_to_Overcome_It_A_Conceptual_Framework/links/5e83010ea6fdcca789e20312/Grassroots-Resistance-to-Digital-Platforms-and-Relational-Business-Model-Design-to-Overcome-It-A-Conceptual-Framework.pdf)
+
+Grimaldi, D., Fernández, V., Carrasco-Farré, C. (2019). [Heuristic for the localization of new shops based on business and social criteria.](https://www.sciencedirect.com/science/article/abs/pii/S0040162517312271) Technological Forecasting and Social Change. 142.
+
+Grimaldi, D., Fernández, V., Carrasco-Farré, C. (2019). [Exploring data conditions to improve business performance.](https://www.tandfonline.com/doi/full/10.1080/01605682.2019.1590136) Journal of the Operational Research Society. 75(5).
+
+Berrone, P., Ricart, J.E., Carrasco-Farré, C. (2016). [The open kimono: Toward a general framework for open data initiatives in cities.](https://journals.sagepub.com/doi/abs/10.1177/0008125616683703) California Management Review. 59(1).
+
+Carrasco-Farré, C., Sobrepere, X. (2016). [Open government data: An assessment of the Spanish municipal situation.](https://journals.sagepub.com/doi/abs/10.1177/0894439314560678) Social Science Computer Review. 33(5).
+
+<h2>Other Publications</h2>
+
+Berrone, P., Ricart, J. E., Carrasco, C. (2015, 2016, 2017, 2018, 2019). IESE Cities in Motion Index, IESE. ST-471-E. Available online: [IESE Cities in Motion](https://www.iese.edu/faculty-research/cities-in-motion/)
