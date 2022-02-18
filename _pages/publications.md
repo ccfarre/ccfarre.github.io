@@ -14,6 +14,7 @@ author_profile: true
 
 <h2>Peer Reviewed Journal Articles</h2>
 🎓 Carrasco-Farré, C., Snihur, Y., Berrone, P., Ricart, J.E. (2022). [The stakeholder value proposition of digital platforms in an urban ecosystem.](https://www.sciencedirect.com/science/article/abs/pii/S0048733322000166) <em>Research Policy</em>.
+
 🎓 Ricart, J. E., Snihur, Y., Carrasco-Farré, C., & Berrone, P. (2020). [Grassroots resistance to digital platforms and relational business model design to overcome it: A conceptual framework.](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2020.0104) <em>Strategy Science</em>, 5(3), 271-291. 
 PDF Version [here](https://www.researchgate.net/profile/Yuliya-Snihur/publication/340078087_Grassroots_Resistance_to_Digital_Platforms_and_Relational_Business_Model_Design_to_Overcome_It_A_Conceptual_Framework/links/5e83010ea6fdcca789e20312/Grassroots-Resistance-to-Digital-Platforms-and-Relational-Business-Model-Design-to-Overcome-It-A-Conceptual-Framework.pdf). 
 
